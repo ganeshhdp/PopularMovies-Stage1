@@ -1,4 +1,4 @@
-package com.example.ganesh.popular_movies_stage_1.data;
+package com.learn.nanodegree.PopularStage1.data;
 import android.os.Parcel;
 import android.os.Parcelable;
 /**

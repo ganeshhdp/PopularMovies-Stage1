@@ -1,4 +1,4 @@
-package com.example.ganesh.popular_movies_stage_1;
+package com.learn.nanodegree.PopularStage1;
 
 import org.junit.Test;
 

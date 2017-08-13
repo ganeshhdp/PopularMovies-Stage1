@@ -1,31 +1,23 @@
-package com.example.ganesh.popular_movies_stage_1.View;
+package com.learn.nanodegree.PopularStage1.View;
 
 import android.content.ContentValues;
 import android.content.Intent;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
 import android.support.design.widget.TabLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.GridLayoutManager;
-import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
-import android.view.MenuInflater;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.GridView;
-import android.widget.Toast;
 
-import com.example.ganesh.popular_movies_stage_1.R;
-import com.example.ganesh.popular_movies_stage_1.Utils.BackgroundFetchTask;
-import com.example.ganesh.popular_movies_stage_1.data.MovieAdapter;
-import com.example.ganesh.popular_movies_stage_1.data.MovieConsts;
-import com.example.ganesh.popular_movies_stage_1.data.MovieInfo;
+import com.learn.nanodegree.PopularStage1.R;
+import com.learn.nanodegree.PopularStage1.Utils.BackgroundFetchTask;
+import com.learn.nanodegree.PopularStage1.data.MovieAdapter;
+import com.learn.nanodegree.PopularStage1.data.MovieConsts;
+import com.learn.nanodegree.PopularStage1.data.MovieInfo;
 
 import java.util.Vector;
 

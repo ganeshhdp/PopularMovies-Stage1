@@ -1,4 +1,4 @@
-package com.example.ganesh.popular_movies_stage_1.data;
+package com.learn.nanodegree.PopularStage1.data;
 
 /**
  * Created by ganesh on 8/6/17.

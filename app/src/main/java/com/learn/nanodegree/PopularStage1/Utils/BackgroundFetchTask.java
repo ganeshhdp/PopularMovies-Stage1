@@ -1,4 +1,4 @@
-package com.example.ganesh.popular_movies_stage_1.Utils;
+package com.learn.nanodegree.PopularStage1.Utils;
 
 import android.content.ContentValues;
 import android.os.AsyncTask;
@@ -8,7 +8,6 @@ import org.json.JSONException;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.util.Date;
 import java.util.Vector;
 
 /**

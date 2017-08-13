@@ -1,4 +1,4 @@
-package com.example.ganesh.popular_movies_stage_1.View;
+package com.learn.nanodegree.PopularStage1.View;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,9 +6,9 @@ import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.ganesh.popular_movies_stage_1.R;
-import com.example.ganesh.popular_movies_stage_1.data.MovieConsts;
-import com.example.ganesh.popular_movies_stage_1.data.MovieInfo;
+import com.learn.nanodegree.PopularStage1.R;
+import com.learn.nanodegree.PopularStage1.data.MovieConsts;
+import com.learn.nanodegree.PopularStage1.data.MovieInfo;
 import com.squareup.picasso.Picasso;
 
 public class MovieDetailActivity extends AppCompatActivity {

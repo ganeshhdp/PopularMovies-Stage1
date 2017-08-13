@@ -1,19 +1,14 @@
-package com.example.ganesh.popular_movies_stage_1.data;
+package com.learn.nanodegree.PopularStage1.data;
 
 import android.animation.ObjectAnimator;
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.animation.Animation;
-import android.view.animation.AnimationSet;
-import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 
-import com.example.ganesh.popular_movies_stage_1.R;
+import com.learn.nanodegree.PopularStage1.R;
 import com.squareup.picasso.Picasso;
 
 /**

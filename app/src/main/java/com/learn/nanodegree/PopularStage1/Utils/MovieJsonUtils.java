@@ -1,8 +1,8 @@
-package com.example.ganesh.popular_movies_stage_1.Utils;
+package com.learn.nanodegree.PopularStage1.Utils;
 
 import android.content.ContentValues;
 
-import com.example.ganesh.popular_movies_stage_1.data.MovieConsts;
+import com.learn.nanodegree.PopularStage1.data.MovieConsts;
 
 import org.json.JSONArray;
 import org.json.JSONException;

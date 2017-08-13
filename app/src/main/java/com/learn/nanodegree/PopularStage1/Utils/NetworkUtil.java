@@ -1,4 +1,4 @@
-package com.example.ganesh.popular_movies_stage_1.Utils;
+package com.learn.nanodegree.PopularStage1.Utils;
 
 import android.net.Uri;
 import android.util.Log;
@@ -7,11 +7,10 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
-import java.net.URI;
 import java.net.URL;
 import java.util.Scanner;
 
-import com.example.ganesh.popular_movies_stage_1.data.MovieConsts;
+import com.learn.nanodegree.PopularStage1.data.MovieConsts;
 
 /**
  * Created by ganesh on 7/31/17.
