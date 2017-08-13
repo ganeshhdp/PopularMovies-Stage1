@@ -7,7 +7,7 @@ package com.example.ganesh.popular_movies_stage_1.data;
 public class MovieConsts {
 
     public static final String MOVIE_URL = "http://api.themoviedb.org/3/movie/";
-    public static final String API_KEY="541e2d53e36e197401a239d1a99fa2ab";
+    public static final String API_KEY="";
     public static final String MOVIE_POPULAR = "popular";
     public static final String MOVIE_TOP_RATED = "top_rated";
     public static final String VOTE_COUNT = "vote_count";
